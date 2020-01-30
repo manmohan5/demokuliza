@@ -7,7 +7,7 @@ const Singlehealth = props => {
     return <SingleHealtDetails title={d.title} name={d.name} key={d.id} />;
   });
   return (
-    <div className="Singlehealth" style={{ padding: '3vh' }}>
+    <div className="Singlehealth" style={{ padding: '1.5vw' }}>
       <h6 style={{ fontWeight: 'bold', color: 'black', marginTop: '7vw' }}>
         Single <br />
         Health

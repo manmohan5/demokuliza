@@ -29,7 +29,7 @@ body {
   height: 100%;
   width: 19vw;
   background-color: white;
-  border-radius: 1.5vh;
+  border-radius: 1vw;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
@@ -47,11 +47,11 @@ body {
 
 }
 .radioButtonBasic {
-  border-top-left-radius: 1.5vh;
+  border-top-left-radius: 1.5vw;
   margin-right: 0.2vw;
 }
 .radioButtonSuperior {
-  border-top-right-radius: 1.5vh;
+  border-top-right-radius: 1vw;
   margin-left: 0.2vw;
 }
 
