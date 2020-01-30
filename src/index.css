@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: red;
+}
+
+/*  body conatiner */
+.body-container {
+  /* height: 70vh; */
+  height: 100%;
+  width: 45vh;
+  background-image: linear-gradient(#046104, #06646e);
+}
+
+.header {
+  width: 38vh;
+  margin-left: 0.9rem;
+  padding-top: 1vw;
+  background-color: transparent;
+  color: white;
+  font-weight: 600;
+}
+
+/* MiddleContent */
+
+.MiddleContent {
+  /* height: 60vh; */
+  height: 100%;
+  width: 41vh;
+  background-color: white;
+  border-radius: 1.5vh;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.radioButtonBasic,
+.radioButtonAdvanced,
+.radioButtonSuperior {
+  width: 6.2vw;
+  height: 6.2vw;
+  background-color: #e3e1de;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1vw;
+
+}
+.radioButtonBasic {
+  border-top-left-radius: 1.5vh;
+  margin-right: 0.2vw;
+}
+.radioButtonSuperior {
+  border-top-right-radius: 1.5vh;
+  margin-left: 0.2vw;
+}
+
+.Ptitle {
+  font-size: 1vw;
+  font-weight: bold;
+  color: #89959b;
+}
+
+.spanText {
+  font-size: 1vw;
+  margin: 1vw 0vw 1vw 0vw;
+}
+
+
+
+.divround {
+  width: 6.7vw;
+  height: 8vw;
+  position: absolute;
+  top: -0.5vw;
+  border-bottom-right-radius: 2.3vw;
+  border-top-left-radius: 1vw;
+  
+}
+
+.stylespan {
+  position: absolute;
+  height: 7px;
+  width: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  left: 6.4vw;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  
+}
