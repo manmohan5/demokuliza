@@ -9,12 +9,12 @@ body {
 .body-container {
   /* height: 70vh; */
   height: 100%;
-  width: 45vh;
+  width: 20vw;
   background-image: linear-gradient(#046104, #06646e);
 }
 
 .header {
-  width: 38vh;
+  width: 18vw;
   margin-left: 0.9rem;
   padding-top: 1vw;
   background-color: transparent;
@@ -27,7 +27,7 @@ body {
 .MiddleContent {
   /* height: 60vh; */
   height: 100%;
-  width: 41vh;
+  width: 19vw;
   background-color: white;
   border-radius: 1.5vh;
   margin-left: 0.5rem;
